@@ -12,4 +12,4 @@ Hi, I'm Chenhao Xu! This is my personal website. I'm an undergraduate majoring i
 
 ## My personal interests
 
-Coming soon.
+I love cooking and playing badminton. I'm also a fan of Japanese anime. I'm currently learning flute and hope to step into the entry level soon.

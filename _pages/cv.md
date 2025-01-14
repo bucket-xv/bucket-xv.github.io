@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Peking University 2022 - present Peking, China
+* Information and Computing Science (Turing Class), GPA: 3.81/4.00
+* Core Courses: Linear Algebra (95.5), Discrete Mathematics and Structures (94), Introduction to Computation (H, 97),
+Algorithms and Data Structures (H, 95), Introduction to Computer System (93), Probability Theory and Statistics (97), Operating System (H, 97), Introduction of Theory of Computation (93), Practice of Programming in C&C++ (H, 93), Algorithm Analysis and Design(H, 100)
 
-Work experience
+Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Merit Student Award (2024)
+* Excellence Learning Award (2023)
+* Xiaomi Scholarship (2023)
+* Silver Medal (64th in China) in National Olympiad in Informatics (NOI) 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Research experience
+======
+* Enhancing the performance of the erasure coded pool in Ceph (2024.4 - present)
+  * Supervisor: Prof. Xin Jin
+  * Description: I developed a load balancing algorithm to improve the performance of the erasure coded pool in Ceph. The algorithm can balance the load of the erasure coded pool by adjusting the number of shards in each OSD. The algorithm can reduce the average latency of the erasure coded pool in heterogeneous situations.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: 
+  * Proficient: C/C++, Python
+  * Familiar: Rust, Haskell, html, css, js
+* English:
+  * TOEFL: 113
+  * GRE: 338
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
