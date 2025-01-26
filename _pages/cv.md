@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-Peking University 2022 - present Peking, China
+Peking University 2022 - present Beijing, China
 * Information and Computing Science (Turing Class), GPA: 3.81/4.00
-* Core Courses: Linear Algebra (95.5), Discrete Mathematics and Structures (94), Introduction to Computation (H, 97),
-Algorithms and Data Structures (H, 95), Introduction to Computer System (93), Probability Theory and Statistics (97), Operating System (H, 97), Introduction of Theory of Computation (93), Practice of Programming in C&C++ (H, 93), Algorithm Analysis and Design(H, 100)
+* Core Courses: 
+  * Math: Linear Algebra (95.5), Discrete Mathematics and Structures (94), Probability Theory and Statistics (97), Introduction to Theory of Computation (93)
+  * Algorithm: Introduction to Computation (H, 97), Algorithms and Data Structures (H, 95), Algorithm Analysis and Design(H, 100)
+  * System: Introduction to Computer System (93), Operating System (H, 97), Computer Networks (93), Computer Architectures (100)
 
 Honors and Awards
 ======
@@ -33,7 +35,7 @@ Skills
 ======
 * Programming Languages: 
   * Proficient: C/C++, Python
-  * Familiar: Bash, Rust, Haskell, html, css, js
+  * Familiar: Bash, Rust, Haskell, HTML, CSS
 * English:
   * TOEFL: 113
   * GRE: 338
