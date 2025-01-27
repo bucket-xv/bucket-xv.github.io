@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 Peking University 2022 - present Beijing, China
-* Information and Computing Science (Turing Class), GPA: 3.81/4.00
+* Information and Computing Science (Turing Class), GPA: 3.83/4.00
 * Core Courses: 
   * Math: Linear Algebra (95.5), Discrete Mathematics and Structures (94), Probability Theory and Statistics (97), Introduction to Theory of Computation (93)
   * Algorithm: Introduction to Computation (H, 97), Algorithms and Data Structures (H, 95), Algorithm Analysis and Design(H, 100)
   * System: Introduction to Computer System (93), Operating System (H, 97), Computer Networks (93), Computer Architectures (100)
+  * Machine Learning: Fundamentals of Artificial Intelligence (96), Multimodal Learning (93)
 
 Honors and Awards
 ======
