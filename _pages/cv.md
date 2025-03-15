@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+* Email: xv_chen_hao@163.com
+
 Education
 ======
 Peking University 2022 - present Beijing, China
@@ -31,6 +35,15 @@ Research experience
 * Enhancing the performance of the erasure coded pool in Ceph (2024.5 - present)
   * Supervisor: Prof. Xin Jin
   * Description: I developed a load balancing algorithm to improve the performance of the erasure coded pool in Ceph. The algorithm can balance the load of the erasure coded pool by adjusting the number of shards in each OSD. It successfully reduces the average latency of the erasure coded pool in heterogeneous situations.
+
+Projects
+======
+* DeepSeek R1 Supplier Evaluation
+  * URL: https://github.com/llm-router/DeepSeekRouter
+  * Description: I developed a script to evaluate the performance of DeepSeek R1's suppliers. The script can evaluate the performance of DeepSeek R1's suppliers and generate an evaluation report.
+* Thunder in Rust
+  * URL: https://github.com/bucket-xv/Thunder-in-Rust
+  * Description: A small game developed in Rust. The game is a side-scrolling shooter game.
 
 Skills
 ======
