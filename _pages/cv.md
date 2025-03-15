@@ -33,7 +33,6 @@ Honors and Awards
 Research experience
 ======
 * Enhancing the performance of the erasure coded pool in Ceph (2024.5 - present)
-  * Supervisor: Prof. Xin Jin
   * Description: I developed a load balancing algorithm to improve the performance of the erasure coded pool in Ceph. The algorithm can balance the load of the erasure coded pool by adjusting the number of shards in each OSD. It successfully reduces the average latency of the erasure coded pool in heterogeneous situations.
 
 Projects
