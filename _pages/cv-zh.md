@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+联系方式：
+* 邮箱: xv_chen_hao@163.com
+* 微信: xv_chen_hao
 
 教育经历
 ======
@@ -30,12 +33,11 @@ redirect_from:
 研究经历
 ======
 * 提升分布式文件系统Ceph中校验码存储的性能 (2024.5 - 至今)
-  * 导师: 金鑫
   * 概要: 我开发了一个负载均衡算法来提高Ceph中校验码存储的性能。该算法通过调整每个OSD中的分片数量来平衡擦除编码池的负载。在异构情况下，该算法减少了擦除编码池的平均延迟。
 
 项目经历
 ======
-* DeepSeek R1的测评
+* DeepSeek R1供应商测评
   * 网址: https://github.com/llm-router/DeepSeekRouter
   * 概要: 开发了一个测评脚本，用于测评DeepSeek R1各个服务商的性能。性能指标包括延迟、吞吐量、稳定性、数据集跑分等。
 * 基于Rust引擎的雷电战机小游戏
