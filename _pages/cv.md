@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chenhao Xu"
+title: "Basic Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Contact
-======
+* Name: Chenhao Xu
 * Email: xv_chen_hao@163.com
+* Personal Website: https://bucket-xv.github.io/
 
 Education
 ======
-Peking University 2022 - present Beijing, China
+Peking University: 2022 - present Beijing, China
 * Information and Computing Science (Turing Class), GPA: 3.83/4.00
 * Core Courses: 
   * Math: Linear Algebra (95.5), Discrete Mathematics and Structures (94), Probability Theory and Statistics (97), Introduction to Theory of Computation (93)
@@ -28,7 +27,7 @@ Honors and Awards
 * Merit Student Award (2024)
 * Excellence Learning Award (2023)
 * Xiaomi Scholarship (2023)
-* Silver Medal (64th in China) in National Olympiad in Informatics (NOI) 2021
+* Silver Medal in National Olympiad in Informatics (NOI, 64th in China) 2021
 
 Research experience
 ======

@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 * 姓名: 徐陈皓
 * 邮箱: xv_chen_hao@163.com
-* 微信: xv_chen_hao
+* 个人主页: https://bucket-xv.github.io/
 
 教育经历
 ======
