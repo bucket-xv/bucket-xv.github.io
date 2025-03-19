@@ -12,7 +12,7 @@ Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate maj
 
 ## My personal interests
 
-- *Legends of the Three Kingdoms*(SanguoSha) is my favorite game, though I don't have much time to play it.
+- *Legends of the Three Kingdoms* (SanguoSha) is my favorite game, though I don't have much time to play it.
 - I'm also currently learning flute and hope to step into the entry level soon.
 - I begin going to the gym regularly since 2025.
 
