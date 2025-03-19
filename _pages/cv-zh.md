@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "徐陈皓"
+title: "基本信息"
 permalink: /cv-zh/
 author_profile: true
 redirect_from:
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-联系方式
-======
+* 姓名: 徐陈皓
 * 邮箱: xv_chen_hao@163.com
 * 微信: xv_chen_hao
 
