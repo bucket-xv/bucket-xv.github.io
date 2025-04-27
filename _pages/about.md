@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate majoring in information and computing technology(Turing Class) in Peking University. I'm currently interested in cloud computing researches, especially in the areas of serverless computing.
+Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate majoring in information and computing technology (Turing Class) in Peking University. I'm currently interested in cloud computing researches, especially in the areas of serverless computing.
 
 ## My personal interests
 
