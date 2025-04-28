@@ -18,8 +18,8 @@ Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate maj
 
 ## Projects
 
-- [DeepSeek R1 Supplier Evaluation](https://github.com/llm-router/DeepSeekRouter)
-  * Our team developed a script to evaluate the performance of DeepSeek R1's suppliers. I implemented the script on evaluation of the performance of the model in Python.
+<!-- - [DeepSeek R1 Supplier Evaluation](https://github.com/llm-router/DeepSeekRouter)
+  * Our team developed a script to evaluate the performance of DeepSeek R1's suppliers. I implemented the script on evaluation of the performance of the model in Python. -->
 - [Thunder in Rust](https://github.com/bucket-xv/Thunder-in-Rust)
   * A small game developed in Rust. The game is a side-scrolling shooter game. You can play it [here](https://bucket-xv.github.io/Thunder-in-Rust/). You may need to be patient since about 40MB needs to be loaded.
 
