@@ -36,9 +36,9 @@ Research experience
 
 Projects
 ======
-* DeepSeek R1 Supplier Evaluation
+<!-- * DeepSeek R1 Supplier Evaluation
   * URL: https://github.com/llm-router/DeepSeekRouter
-  * Description: I developed a script to evaluate the performance of DeepSeek R1's suppliers. The script can evaluate the performance of DeepSeek R1's suppliers and generate an evaluation report.
+  * Description: I developed a script to evaluate the performance of DeepSeek R1's suppliers. The script can evaluate the performance of DeepSeek R1's suppliers and generate an evaluation report. -->
 * Thunder in Rust
   * URL: https://github.com/bucket-xv/Thunder-in-Rust
   * Description: A small game developed in Rust. The game is a side-scrolling shooter game.
