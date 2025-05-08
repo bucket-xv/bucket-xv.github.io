@@ -14,7 +14,7 @@ I actively participate in the activities in Turing Class. I'm the vice president
 
 ## Hometown
 
-I grow up in Shanghai, a city with a inclusive culture. Life there is always bustling and full of energy. Though currently I'm living in Beijing for my study, I hope to go back to Shanghai after my graduation.
+I grow up in Shanghai, a city with an inclusive culture. Life there is always bustling and full of energy. Though currently I'm living in Beijing for my study, I hope to go back to Shanghai after my graduation.
 
 ## Favorite programming languages
 
