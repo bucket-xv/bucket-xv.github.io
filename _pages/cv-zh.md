@@ -37,9 +37,9 @@ redirect_from:
 
 项目经历
 ======
-<!-- * DeepSeek R1供应商测评
+* DeepSeek R1供应商测评
   * 网址: https://github.com/llm-router/DeepSeekRouter
-  * 概要: 开发了一个测评脚本，用于测评DeepSeek R1各个服务商的性能。性能指标包括延迟、吞吐量、稳定性、数据集跑分等。 -->
+  * 概要: 开发了一个测评脚本，用于测评DeepSeek R1各个服务商的性能。性能指标包括延迟、吞吐量、稳定性、数据集跑分等。
 * 基于Rust引擎的雷电战机小游戏
   * 网址: https://github.com/bucket-xv/Thunder-in-Rust
   * 概要: 课程项目，使用Rust开发了一个雷电战机小游戏。有在线版本可供试玩。
