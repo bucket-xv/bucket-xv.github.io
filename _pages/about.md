@@ -26,6 +26,7 @@ In application use, I'm a big fan of Python. Python is a very friendly language,
 - *Legends of the Three Kingdoms* (SanguoSha) is my favorite game, though I don't have much time to play it.
 - I'm also currently learning flute and hope to step into the entry level soon.
 - I begin going to the gym regularly since 2025.
+- I love reading novels.
 
 ## Projects
 
