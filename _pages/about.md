@@ -11,6 +11,11 @@ Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate maj
 
 I actively participate in the activities in Turing Class. I'm the vice president of the 2025 Turing Class Forum. Besides, I'm also serving in Student Service Corps of PKU.
 
+## Work Experiences
+
+- **System Engineer, DeepSeek, 2025.7 - present**
+  + I joined DeepSeek as a system engineer in July 2025. My main work is to maintain and optimize the kernels used by models.
+
 ## Hometown
 
 I grow up in Shanghai, a city with an inclusive culture. Life there is always bustling and full of energy. Though currently I'm living in Beijing for my study, I hope to go back to Shanghai after my graduation.
@@ -23,10 +28,8 @@ In application use, I'm a big fan of Python. Python is a very friendly language,
 
 ## My personal interests
 
-- *Legends of the Three Kingdoms* (SanguoSha) is my favorite game, though I don't have much time to play it.
 - I'm also currently learning flute and hope to step into the entry level soon.
-- I begin going to the gym regularly since 2025.
-- I love reading novels.
+- I love reading books on history and sociology.
 
 ## Projects
 
