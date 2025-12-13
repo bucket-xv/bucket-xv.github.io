@@ -14,7 +14,7 @@ I actively participate in the activities in Turing Class. I'm the vice president
 ## Work Experiences
 
 - **System Engineer, DeepSeek, 2025.7 - present**
-  + I joined DeepSeek as a system engineer in July 2025. My main work is to maintain and optimize the kernels used by models.
+  + I joined DeepSeek as a system engineer in July 2025. My main work is to maintain and optimize the model performance.
 
 ## Hometown
 
