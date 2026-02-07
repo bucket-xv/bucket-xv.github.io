@@ -1,0 +1,104 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# General settings for all files
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
+
+# Makefiles
+[Makefile]
+indent_style = tab
+
+# Batch files
+[*.bat]
+end_of_line = crlf
+
+# Shell scripts
+[*.sh]
+end_of_line = lf
+
+# JSON files
+[*.json]
+indent_size = 2
+
+# YAML files
+[*.yaml]
+[*.yml]
+indent_size = 2
+
+# XML files
+[*.xml]
+indent_size = 2
+
+# Python files
+[*.py]
+indent_size = 4
+
+# Java files
+[*.java]
+indent_size = 4
+
+# C/C++ files
+[*.c]
+[*.cpp]
+[*.h]
+indent_size = 4
+
+# JavaScript/TypeScript files
+[*.js]
+[*.jsx]
+[*.ts]
+[*.tsx]
+indent_size = 2
+
+# CSS/SCSS/Less files
+[*.css]
+[*.scss]
+[*.less]
+indent_size = 2
+
+# HTML files
+[*.html]
+indent_size = 2
+
+# PHP files
+[*.php]
+indent_size = 4
+
+# Ruby files
+[*.rb]
+indent_size = 2
+
+# Go files
+[*.go]
+indent_style = tab
+
+# Rust files
+[*.rs]
+indent_size = 4
+
+# SQL files
+[*.sql]
+indent_size = 2
+
+# Dockerfiles
+[Dockerfile]
+[*.dockerfile]
+indent_size = 4
+
+# Git files
+[.gitattributes]
+[.gitignore]
+[.gitmodules]
+indent_style = tab
