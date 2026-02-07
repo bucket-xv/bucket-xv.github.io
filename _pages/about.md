@@ -7,35 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenhao Xu! This is my personal website. I'm an Junior undergraduate majoring in information and computing technology (Turing Class) in Peking University. I'm currently interested in cloud computing researches, especially in the areas of serverless computing. I hope my research can help improve the efficiency of cloud computing systems, helping to save energy and improve service quality.
-
-I actively participate in the activities in Turing Class. I'm the vice president of the 2025 Turing Class Forum. Besides, I'm also serving in Student Service Corps of PKU.
-
-## Work Experiences
-
-- **System Engineer, DeepSeek, 2025.7 - present**
-  + I joined DeepSeek as a system engineer in July 2025. My main work is to maintain and optimize the model performance.
+Hi, I'm Chenhao Xu from Shanghai! This is my personal website. I'm currently a junior undergraduate majoring in information and computing technology (Turing Class) in Peking University. Recently I joined DeepSeek as a system engineer and focused on LLM infra. My main focuse is on developing and optimize GPU kernels for LLM training and inference. My work cares about efficiency, robustness, deterministics and maintainability.
 
 ## Hometown
 
-I grow up in Shanghai, a city with an inclusive culture. Life there is always bustling and full of energy. Though currently I'm living in Beijing for my study, I hope to go back to Shanghai after my graduation.
+I grow up in Shanghai, a city with an inclusive culture. Life there is always bustling and full of energy.
 
-## Favorite programming languages
+## Programming languages
 
-As a system programmer, C/C++ is a must-have skill for me. But as we all know, C/C++ has drawbacks in runtime memory management and type safety. Rust is a new, safe and fast programming language, but I believe it is not mature enough to replace the use of C/C++ in system programming. 
+As a system programmer, C/C++ is a must-have skill for me. But as we all know, C/C++ has drawbacks in runtime memory management and type safety. Rust is a new, safe and fast programming language, though I believe it is not mature enough to replace the use of C/C++ in system programming. The ecosystem of Rust is not friendly to users currently.
 
-In application use, I'm a big fan of Python. Python is a very friendly language, and its large standard library makes it a great tool for rapid development.
+In application use, I'm a big fan of Python. Python is a very flexible language, and its large library makes it a great tool for rapid development. Also, it is a standard developing language for machine learning.
 
 ## My personal interests
 
-- I'm also currently learning flute and hope to step into the entry level soon.
+- I'm playing Genshin Impact.
 - I love reading books on history and sociology.
+- I'm also currently learning flute and hope to step into the entry level soon.
 
 ## Projects
 
 - [DeepSeek R1 Supplier Evaluation](https://github.com/llm-router/DeepSeekRouter)
-  * Our team developed a script to evaluate the performance of DeepSeek R1's suppliers. I implemented the script on evaluation of the performance of the model in Python.
+  - Our team developed a script to evaluate the performance of DeepSeek R1's suppliers. I implemented the script on evaluation of the performance of the model in Python.
 - [Thunder in Rust](https://github.com/bucket-xv/Thunder-in-Rust)
-  * A small game developed in Rust. The game is a side-scrolling shooter game. You can play it [here](https://bucket-xv.github.io/Thunder-in-Rust/). You may need to be patient since about 40MB needs to be loaded.
-
-
+  - A small game developed in Rust. The game is a side-scrolling shooter game. You can play it [online](https://bucket-xv.github.io/Thunder-in-Rust/). You may need to be patient since about 40MB needs to be loaded.
