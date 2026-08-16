@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenhao Xu from Shanghai! This is my personal website. I'm currently a junior undergraduate majoring in information and computing technology (Turing Class) in Peking University. Recently I joined DeepSeek as a system engineer and focused on LLM infra. My main focuse is on developing and optimize GPU kernels for LLM training and inference. My work cares about efficiency, robustness, deterministics and maintainability.
+Hi, I'm Chenhao Xu from Shanghai! This is my personal website. I'm currently a junior undergraduate majoring in information and computing technology (Turing Class) in Peking University. Recently I worked as a system engineer and focused on LLM infra. My main focuse is on developing and optimize GPU kernels for LLM training and inference. My work cares about efficiency, robustness, deterministics and maintainability.
 
 ## Hometown
 

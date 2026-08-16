@@ -35,8 +35,8 @@ Honors and Awards
 Work Experiences
 ======
 
-* System Engineer, DeepSeek, 2025.7 - present
-  * I joined DeepSeek as a system engineer in July 2025. My primary responsibility is to develop GPU kernels for LLM training and inference.
+* System Engineer, AI Infra, 2025.7 - present
+  * I started working as a system engineer in July 2025. My primary responsibility is to develop GPU kernels for LLM training and inference.
 
 Research experience
 ======
